@@ -10,16 +10,16 @@
 | 231026385  | Ígor Veras Daniel |
 
 ## Sobre 
-Este repositório tem como objetivo a resolução de exercícios sobre grafos do [LeetCode](https://leetcode.com/) (TROCAR PELO SITE QUE FORMOS USAR DEPOIS), utilizando o conteúdo do primeiro módulo Grafos 1.
+Este repositório tem como objetivo a resolução de exercícios sobre grafos do [LeetCode](https://leetcode.com/), utilizando o conteúdo do primeiro módulo Grafos 1.
 
 ## Screenshots
 ### Exercício 1 - [Properties Graph](https://leetcode.com/problems/properties-graph)
 
 Dificuldade: Média<br>
-Problema: [Is Graph Bipartite?](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/64d4c95abaf4614db367828cfbea8fb85c1ca8da/Is_Graph_Bipartite/Is_Graph_Bipartite.md)(LINK DO PROBLEMA)<br>
-Codigo: [Solução](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/bd758c66b5b587e4c5db35341f7ea19baa5d165f/Is_Graph_Bipartite/Is_GraphBipartite.py)(LINK DO CODIGO)<br>
+Problema: [Is Graph Bipartite?](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/properties_graph/Exercicio1.md)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/properties_graph/Exercicio1.c)<br>
 
-![](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/abd62d3dc67481af3569a15132d0b0c86a9d0b8c/Assets/Media_1.png) (TROCAR PELA IMAGEM DO CODIGO, QUESTAO E RESOLUCAO DEPOIS)<br>
+![](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/assets/properties-graph.png)<br>
 
 ## Instalação 
 **Linguagem**: C++<br>
