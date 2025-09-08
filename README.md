@@ -16,7 +16,7 @@ Este repositório tem como objetivo a resolução de exercícios sobre grafos do
 ### Exercício 1 - [Properties Graph](https://leetcode.com/problems/properties-graph)
 
 Dificuldade: Média<br>
-Problema: [Is Graph Bipartite?](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/properties_graph/Exercicio1.md)<br>
+Problema: [Properties Graph](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/properties_graph/Exercicio1.md)<br>
 Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/properties_graph/Exercicio1.c)<br>
 
 ![](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/assets/properties-graph.png)<br>
