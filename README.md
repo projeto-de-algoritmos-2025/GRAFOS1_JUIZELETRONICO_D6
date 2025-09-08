@@ -13,7 +13,7 @@
 Este repositório tem como objetivo a resolução de exercícios sobre grafos do [LeetCode](https://leetcode.com/) (TROCAR PELO SITE QUE FORMOS USAR DEPOIS), utilizando o conteúdo do primeiro módulo Grafos 1.
 
 ## Screenshots
-### Exercício 1 - [Properties Graph](https://leetcode.com/problems/properties-graph))
+### Exercício 1 - [Properties Graph](https://leetcode.com/problems/properties-graph)
 
 Dificuldade: Média<br>
 Problema: [Is Graph Bipartite?](https://github.com/projeto-de-algoritmos-2024/Grafos1_Leet_code/blob/64d4c95abaf4614db367828cfbea8fb85c1ca8da/Is_Graph_Bipartite/Is_Graph_Bipartite.md)(LINK DO PROBLEMA)<br>
