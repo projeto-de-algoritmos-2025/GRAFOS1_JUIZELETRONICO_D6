@@ -21,6 +21,19 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZEL
 
 ![](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/assets/properties-graph.png)<br>
 
+### Exercício 2 - [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree)
+
+Dificuldade: Difícil<br>
+Problema: [Sum of Distances in Tree](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/sum_of_distances_in_tree/Exercicio2.md)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/sum_of_distances_in_tree/Exercicio2.cpp)
+
+### Exercício 3 - [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions)
+
+Dificuldade: Difícil<br>
+Problema: [Build a Matrix With Conditions](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/build_matrix_with_conditions/Exercicio3.md)<br>
+Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/build_matrix_with_conditions/Exercicio3.cpp)<br>
+
+
 ## Instalação 
 **Linguagem**: C++<br>
 - O codigo deve ser executado no site do LeetCode em uma classe Solution.
