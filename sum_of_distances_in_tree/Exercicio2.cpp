@@ -1,40 +1,35 @@
-vector <int> sumOfDistancesInTree (int n, vector<vector<int>>& edges){
-	vector <vector <int>> adj(n);
+void dfs1(int u, int parent, vector<vector<int>>& adj, vector<int>& count, vector<int>& ans) {
+for (int v : adj[u]) {
+    if (v == parent) continue;
+    dfs1(v, u, adj, count, ans);
+    count[u] += count[v];
+    ans[u] += ans[v] + count[v];
+    }
+}
 
-	for ( const auto& edge : edges){
-		int u = edge[0];
-		int v = edge[1];
-			
-		adj[u].push_back(v);
-		adj[v].push_back(u);
-	}
+void dfs2(int u, int parent, int n, vector<vector<int>>& adj, vector<int>& count, vector<int>& ans) {
+    for (int v : adj[u]) {
+        if (v == parent) continue;
+        ans[v] = ans[u] - count[v] + (n - count[v]);
+        dfs2(v, u, n, adj, count, ans);
+    }
+}
 
-	vector <int> result(n);
+vector<int> sumOfDistancesInTree(int n, vector<vector<int>>& edges) {
+    if (n == 1)
+        return {0};
 
-	for (int i = 0; i < n; ++i){
-		queue<int> q;
-		vector<int> dist(n, -1);
-
-		q.push(i);
-		dist[i] = 0;
-
-		while (!q.empty()){
-			int noAtual = q.front();
-			q.pop();
-
-			for(int vizinho : adj[noAtual])
-				if (dist[vizinho] == -1){
-					dist[vizinho] = dist[noAtual] + 1;
-					q.push(vizinho);
-				}
-		}
-
-		int soma = 0;
-		for(int d : dist)
-			soma += d;
-
-		result[i] = soma;
-	}
-	
-	return result;
+    vector<vector<int>> adj(n);
+    vector<int> count(n, 1);
+    vector<int> ans(n, 0);
+    
+	for (const auto& edge : edges) {
+        adj[edge[0]].push_back(edge[1]);
+        adj[edge[1]].push_back(edge[0]);
+    }
+    
+	dfs1(0, -1, adj, count, ans);
+    dfs2(0, -1, n, adj, count, ans);
+    
+	return ans;
 }
