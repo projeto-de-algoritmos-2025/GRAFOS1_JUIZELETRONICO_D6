@@ -62,5 +62,6 @@ Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZEL
 
 ## Outros 
 **Apresentação da resolução dos exercícios:** 
+[LINK DO VÍDEO](https://youtu.be/EtKq7r8VStU): https://youtu.be/EtKq7r8VStU
 
 
