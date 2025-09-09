@@ -27,11 +27,16 @@ Dificuldade: Difícil<br>
 Problema: [Sum of Distances in Tree](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/sum_of_distances_in_tree/Exercicio2.md)<br>
 Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/sum_of_distances_in_tree/Exercicio2.cpp)
 
+![](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/assets/sum_of_distances.png)<br>
+
 ### Exercício 3 - [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions)
 
 Dificuldade: Difícil<br>
 Problema: [Build a Matrix With Conditions](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/build_matrix_with_conditions/Exercicio3.md)<br>
 Codigo: [Solução](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/build_matrix_with_conditions/Exercicio3.cpp)<br>
+
+![](https://github.com/projeto-de-algoritmos-2025/GRAFOS1_JUIZELETRONICO_D6/blob/main/assets/build_matrix.png)<br>
+
 
 
 ## Instalação 
